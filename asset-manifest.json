@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fcc-25-5-clock/static/css/main.c8d94295.css",
+    "main.js": "/fcc-25-5-clock/static/js/main.6019f455.js",
+    "static/js/787.63fa28dd.chunk.js": "/fcc-25-5-clock/static/js/787.63fa28dd.chunk.js",
+    "static/media/beep.mp3": "/fcc-25-5-clock/static/media/beep.f54bb20312917b7aec3b.mp3",
+    "index.html": "/fcc-25-5-clock/index.html",
+    "main.c8d94295.css.map": "/fcc-25-5-clock/static/css/main.c8d94295.css.map",
+    "main.6019f455.js.map": "/fcc-25-5-clock/static/js/main.6019f455.js.map",
+    "787.63fa28dd.chunk.js.map": "/fcc-25-5-clock/static/js/787.63fa28dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8d94295.css",
+    "static/js/main.6019f455.js"
+  ]
+}
